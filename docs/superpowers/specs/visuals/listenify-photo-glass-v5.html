@@ -142,4 +142,3 @@ document.getElementById('tint-range').value='1.8';document.getElementById('tint-
 concepts.forEach(c=>render(c.id));let photoResize;window.addEventListener('resize',()=>{clearTimeout(photoResize);photoResize=setTimeout(()=>concepts.forEach(c=>prepareOptics(document.querySelector('[data-app="'+c.id+'"]'))),180)});
 
 </script></body></html>
-
