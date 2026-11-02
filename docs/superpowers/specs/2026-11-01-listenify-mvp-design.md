@@ -2,7 +2,7 @@
 
 Sana: 2026-11-01, Asia/Tashkent.
 
-Holat: suhbatda kelishilgan funksiyalar va vizual yo‘nalish jamlangan; yozma spetsifikatsiya yakuniy ko‘rib chiqish uchun tayyor. Mahsulot kodi hali yaratilmagan.
+Holat: 2026-11-02 kuni foydalanuvchi mavjud spetsifikatsiya va texnik rejani “tasdiqlayman” deb tasdiqladi. Quyidagi matn kelishilgan mahsulot talablarini saqlaydi; implementatsiya holati `docs/plans/2026-11-02-listenify-validation.md` da yuritiladi.
 
 ## 1. Maqsad va MVP chegarasi
 
