@@ -95,7 +95,9 @@ Loyihaga biriktirilgan manbalar:
 - [Foydalanuvchi yuborgan liquid glass referensi](visuals/glass-material-reference.png)
 - [Kelishilgan yo‘nalishdagi interaktiv maket](visuals/listenify-photo-glass-v5.html)
 
-Palitra vinilning quyuq yashil/qora ranglari, kassetaning yorqin yashili, sutrang oq va och mint akslardan iborat. Tipografiya: Manrope sarlavhalar va DM Sans asosiy matn; shrift yuklanmasa tizim sans-serif. Namuna Spotify ruhidan ilhomlangan, mustaqil Listenify logotipi va interfeysi bilan.
+Palitra vinilning quyuq yashil/qora ranglari, kassetaning yorqin yashili, sutrang oq va och mint akslardan iborat. Tipografiya: Manrope sarlavhalar va DM Sans asosiy matn; shrift yuklanmasa tizim sans-serif.
+
+2026-11-02 kuni foydalanuvchi [yuborgan yashil Listenify logosini](../../brand/listenify-approved-reference.png) davom etish uchun tanladi. Brend yozuvi handwritten: mikrofon bilan uyg‘unlashgan L, quloqchin bilan uyg‘unlashgan y va L’dan davom etadigan pastki chiziq saqlanadi. Yashil yumaloq kvadrat ichidagi oq Ly — ixcham belgi. Bu wordmark interfeys shriftlari bilan qayta terilmaydi. [Brend tanlovi va qo‘llash qoidalari](../../brand/README.md) alohida saqlangan. Manba hozircha oq fonli umumiy kompozitsiya; alohida shaffof va vektor eksportlar keyingi tayyorlash ishiga kiradi. Avvalgi og‘ir 3D/xrom logo mockuplari joriy tanlov emas.
 
 Shisha materiali: tiniq markaz, past oq tus, yumaloq yorug‘ chetlar, pastki yashil aks va fonning chetlarda linzaga o‘xshab egilishi. Asosiy joylar: navigatsiya, player, qidiruv, daraja tanlash, yozuv paneli, dialog va toast. Uzun skriptlar, izohlar va jadvallarga mahalliy kontrast qatlami beriladi.
 
