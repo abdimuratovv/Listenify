@@ -1,5 +1,7 @@
 # Listenify — yangi chat uchun loyiha topshirig‘i
 
+> Historical handoff from before implementation. Local paths and implementation-status statements below describe that earlier point in time. See [README.md](README.md) for current setup and project status.
+
 Tayyorlangan sana: 2026-11-02. Vaqt mintaqasi: Asia/Tashkent.
 
 ## Yangi chatga topshiriq

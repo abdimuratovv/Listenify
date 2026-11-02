@@ -1,5 +1,16 @@
 # Listenify — lokal implementatsiya va tekshiruv holati
 
+## GitHub preparation update — 2026-11-02
+
+The earlier notes below describe the initial local implementation. During the subsequent GitHub preparation pass:
+
+- The recording query was changed to lock only the recording row, avoiding PostgreSQL's nullable-join restriction. Uploads are now limited while the multipart stream is parsed, and listening attempts have a session-scoped cancellation endpoint and stale-attempt expiry.
+- Repeated per-row database queries in the user and material lists were reduced; large lists still need pagination and load testing.
+- A temporary local PostgreSQL 17 instance was used to run **37 backend and concurrency tests successfully**, including recording media/submit/delete, access changes after group transfers, and concurrent starts, finishes, and reviews.
+- **4 Chromium end-to-end tests passed against PostgreSQL**, including synthetic microphone recording, upload, submission, grading, group restrictions, seek handling, and cancellation on navigation.
+- These browser tests used a synthetic microphone. Physical microphones, Firefox, Safari/WebKit, and a remote GitHub Actions run remain unverified. SMTP, public hosting, backup, and the cleanup scheduler still require production configuration.
+- The source code is MIT licensed. Rights to the supplied logo and photographic assets have not been independently verified.
+
 Sana: 2026-11-02, Asia/Tashkent.
 
 ## Amalga oshirilgan

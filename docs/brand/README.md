@@ -1,24 +1,18 @@
-# Listenify — tasdiqlangan brend yo‘nalishi
+# Listenify brand reference
 
-Tanlangan sana: 2026-11-02 (Asia/Tashkent).
+The approved source is [listenify-approved-reference.png](listenify-approved-reference.png), selected on November 2, 2026. Keep the original file intact.
 
-Foydalanuvchi yuborgan va davom etish uchun tanlagan asl manba: [listenify-approved-reference.png](listenify-approved-reference.png).
+## Identity
 
-## Saqlanadigan belgilar
+- The product name is **Listenify**, with a capital L and lowercase remaining letters.
+- The handwritten wordmark integrates a microphone into the L and headphones into the final y; the long underline extends from the L.
+- The compact mark is the white **Ly** monogram in a green rounded square.
+- Use the green from the approved reference. Manrope and DM Sans are interface typefaces; they do not replace the hand-drawn logo.
 
-- Brend nomi: **Listenify**; bosh L, qolganlari kichik harflar.
-- Handwritten wordmarkdagi **L** mikrofon bilan uyg‘unlashgan.
-- Oxirgi **y** quloqchin bilan uyg‘unlashgan.
-- L’dan davom etadigan uzun pastki chiziq tanlangan kompozitsiyaning bir qismi.
-- Asosiy rang — yuborilgan tasvirdagi yorqin yashil.
-- Ixcham belgi — yashil yumaloq kvadrat ichidagi oq **Ly** monogrammasi.
+## Usage
 
-## Qo‘llash yo‘nalishi
+Use the full wordmark where space permits and the compact mark for small placements. Preserve the original proportions and letter shapes when preparing separate assets. Do not replace the lettering with a similar font or add chrome, heavy 3D extrusion, or decorative glass effects.
 
-To‘liq wordmark saytning keng joylarida; Ly belgisi favicon, ixcham navigatsiya va boshqa kichik joylar uchun asos. Logo harflarini oddiy shrift bilan qayta terish tanlangan logoning o‘rnini bosmaydi. Manrope va DM Sans interfeys matnlari uchun alohida qoladi.
+The supplied image contains both marks on a white background. It is not a transparent export or a vector file. The application currently crops the original raster image for its wordmark. A dedicated transparent export and favicon have not yet been prepared.
 
-Liquid glass asosan sayt boshqaruv elementlarida ishlatiladi. Logo ustiga xrom, og‘ir 3D ekstrud yoki bezakli shisha effekt avtomatik qo‘shilmaydi; tanlangan yashil tasvir ustuvor manbadir.
-
-Manba o‘zgartirilmagan holda saqlandi. Faylda to‘liq wordmark va Ly belgisi bitta oq fonli kompozitsiyada turibdi; u hali alohida shaffof wordmark, favicon yoki SVG eksporti emas. Yakuniy eksportlar tayyorlanganda asl nisbatlar, harf shakllari va rang yo‘nalishi saqlanadi.
-
-Oldingi `docs/brand-exploration/` fayllari tanlov tarixi bo‘lib qoladi; joriy tanlovning o‘rnini bosmaydi.
+The `docs/brand-exploration/` directory, if present locally, contains earlier explorations rather than the approved source. It is excluded from the intended GitHub submission.
